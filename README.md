@@ -1,8 +1,6 @@
 
 ### Hi there, I'm Tran Trung Phuc 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
-
 **My Research Interest**:
 - Outlying Aspect Mining
 - Classification

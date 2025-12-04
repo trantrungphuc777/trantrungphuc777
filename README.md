@@ -8,7 +8,7 @@ Gendun la kyab su chi.**
 I take refuge in the Dharma.  
 I take refuge in the Sangha.*  
 
-### ☸ May wholesome intention and clear wisdom illuminate every line of code and every project I create, so that whatever arises from my work may bring benefit, peace, and lasting happiness to all sentient beings without exception. ☸
+### ☸ May the radiant light of compassion, wisdom, and unwavering clarity guide every intention I set and every line of code I craft. May all projects manifested through my hands arise from purity, mindfulness, and skillful means, so that their results may bring true benefit, harmony, and long-lasting happiness to all sentient beings across all realms, without the slightest exception. ☸
 
 **My Research Interest**:
 - Outlying Aspect Mining

@@ -1,7 +1,6 @@
 ## ☸ བཀྲ་ཤིས་བདེ་ལེགས། — *Tashi Delek!☸*
-### Hi there, I'm Tran Trung Phuc 👋  
-**ༀ བདེན་པ་རྣམ་གསུམ་ལ་སྐྱབས་སོ།**  
-**Om — Sangye la kyab su chi,  
+### Hi there, I'm Tran Trung Phuc 👋   
+**Sangye la kyab su chi,  
 Chö la kyab su chi,  
 Gendun la kyab su chi.**
 
@@ -9,7 +8,11 @@ Gendun la kyab su chi.**
 I take refuge in the Dharma.  
 I take refuge in the Sangha.*  
 
-☸ *May wholesome intention and wisdom guide every line of code and every project I create.* ☸
+☸ **May wholesome intention and clear wisdom illuminate every line of code  
+and every project I create,  
+so that whatever arises from my work  
+may bring benefit, peace, and lasting happiness  
+to all sentient beings without exception.** ☸
 
 **My Research Interest**:
 - Outlying Aspect Mining

@@ -1,22 +1,30 @@
-# ☸ བཀྲ་ཤིས་བདེ་ལེགས། — *Tashi Delek!☸*
+# *Tashi Delek!* 
 ### Hi there, I'm Tran Trung Phuc 👋   
-**Sangye la kyab su chi,  
-Chö la kyab su chi,  
-Gendun la kyab su chi.**
 
-*I take refuge in the Buddha.  
-I take refuge in the Dharma.  
-I take refuge in the Sangha.*  
+## ☸ Aspiration ☸
 
-### ☸ May the qualities of compassion, wisdom, and unwavering clarity guide every intention I set and every line of code I craft. May all projects manifested through my hands arise from purity, mindfulness, and skillful means, so that their results may bring true benefit, harmony, and lasting happiness to all sentient beings across all realms, without exception. ☸ 
+**Buddhaṃ saraṇaṃ gacchāmi  
+Dhammaṃ saraṇaṃ gacchāmi  
+Saṅghaṃ saraṇaṃ gacchāmi**
 
-**My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+May the qualities of compassion, wisdom, and unwavering clarity guide every intention I set and every line of code I craft. May all projects manifested through my hands arise from purity, mindfulness, and skillful means, so that their results may bring true benefit, harmony, and lasting happiness to all sentient beings across all realms, without exception.
 
+## 🕊️☸ Dedication of Merit ☸🕊️
+
+Idaṃ me puññaṃ āsavakkhayāvahaṃ hotu.  
+May this merit of mine lead to the destruction of the taints.
+
+Idaṃ me puññaṃ nibbānassa paccayo hotu.  
+May this merit of mine be a condition for Nibbāna.
+
+Mama puññabhāgaṃ sabbasattānaṃ bhājemi;  
+I share my portion of merit with all beings.
+
+Te sabbe me samaṃ puññabhāgaṃ labhantu.  
+May they all receive an equal share of this merit.
+
+**Sādhu! Sādhu! Sādhu!**  
+**Buddhasāsanaṃ ciraṃ tiṭṭhatu.**  
 
 ## Skills:
 

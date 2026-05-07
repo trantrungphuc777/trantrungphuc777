@@ -11,20 +11,22 @@ May the qualities of compassion, wisdom, and unwavering clarity guide every inte
 
 ## 🕊️☸ Dedication of Merit ☸🕊️
 
-Idaṃ me puññaṃ āsavakkhayāvahaṃ hotu.  
-May this merit of mine lead to the destruction of the taints.
+**Idaṃ me puññaṃ āsavakkhayāvahaṃ hotu.**  
+May this merit of mine lead to the destruction of all mental defilements.
 
-Idaṃ me puññaṃ nibbānassa paccayo hotu.  
+**Idaṃ me puññaṃ nibbānassa paccayo hotu.**  
 May this merit of mine be a condition for Nibbāna.
 
-Mama puññabhāgaṃ sabbasattānaṃ bhājemi;  
+**Mama puññabhāgaṃ sabbasattānaṃ bhājemi.** 
 I share my portion of merit with all beings.
 
-Te sabbe me samaṃ puññabhāgaṃ labhantu.  
+**Te sabbe me samaṃ puññabhāgaṃ labhantu.**  
 May they all receive an equal share of this merit.
 
-**Sādhu! Sādhu! Sādhu!**  
+**Sādhu! Sādhu! Sādhu!** 
+
 **Buddhasāsanaṃ ciraṃ tiṭṭhatu.**  
+May the Buddha’s Dispensation endure for a long time.
 
 ## Skills:
 
